@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size:1.1rem;
+}
+h1{
+    height: 45px;background-color: yellow;
+    
+    font-size:1.5rem;
+}
+#add{
+    height:50px;
+    width:7rem;
+    font-size:1.2rem;
+    margin:4px;
+    margin-left:40vw;
+    border-radius:15%;
+    }
+.note{
+    height:200px;
+    width:40vw;
+    background-color:pink;
+     display:inline-block;
+    margin:8px;
+}
+.main{
+    height:10px;
+    width:40vw;
+    display:inline-block;
+    position:absolute;
+    
+}
+.operation{
+      width:2.3rem;
+    margin-top:120px;
+    position:absolute;
+    background-color:yellow;
+}
+.edit,.del{
+    margin-top:4px;
+       font-size:1rem;
+    width:1.6rem;
+    margin:4px;
+    margin-left:15%;
+}
+textarea{
+    width:99%;
+    height:99%;
+    font-size:1.25rem;
+    margin-left:0.5%;
+}
+.hidden{
+    display:none;
+}

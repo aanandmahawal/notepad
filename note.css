@@ -1,7 +1,7 @@
 *{
     margin: 0px
     padding: 0px
-    font-size:1.1rem;
+    font-size:1.1rem
 }
 h1{
     height: 45px;background-color: yellow;
@@ -53,4 +53,5 @@ textarea{
     display:none;
 
 }
+
 
